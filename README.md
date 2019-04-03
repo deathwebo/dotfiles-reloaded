@@ -2,16 +2,16 @@
 
 ## ZSH
 
-[https://ohmyz.sh/](Installation instructions)
+[Installation instructions](https://ohmyz.sh/)
 
-[https://github.com/robbyrussell/oh-my-zsh](Oh-My-Zsh Installation instructions)
+[Oh-My-Zsh Installation instructions](https://github.com/robbyrussell/oh-my-zsh)
 
 ## Tmux
 
-[https://github.com/tmux/tmux](Installation instructions)
+[Installation instructions](https://github.com/tmux/tmux)
 
 ## Vim (NeoVim)
 
-[https://github.com/neovim/neovim/wiki/Installing-Neovim](Installation Instructions)
+[Installation Instructions](https://github.com/neovim/neovim/wiki/Installing-Neovim)
 
-[https://github.com/joshdick/onedark.vim](Vim Theme)
+[Vim Theme](https://github.com/joshdick/onedark.vim)
