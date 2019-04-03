@@ -1,0 +1,14 @@
+windows:
+  - name: sample-four-panes
+    root: ~/BriteCore
+    layout: tiled
+    panes:
+      - commands:
+          - cd BriteLines
+          - docker-compose up
+        focus: true
+      - commands:
+          - cd BriteCore-UI
+          - docker-compose up
+      - cd BriteLines
+      - cd BriteCore-UI
